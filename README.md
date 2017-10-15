@@ -59,6 +59,7 @@ Add additional notes about how to deploy this on a live system
 ## Built With
 
 * [Laravel](https://laravel.com/) - The PHP framework used
+* [Bootstrap](http://getbootstrap.com/) - The web framework used
 * [jsPDF](https://parall.ax/products/jspdf) - Used to generate resume PDF
 * [Google Maps API](https://developers.google.com/maps/) - Used to generate map
 
