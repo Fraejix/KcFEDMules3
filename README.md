@@ -50,5 +50,3 @@ Add additional notes about how to deploy this on a live system
 * **[Spencer Werremeyer](https://github.com/SpencerWerremeyer)** - *Initial work*
 * **[Logan Hall](https://github.com/)** - *Initial work*
 * **[Cody DeMent](https://github.com/)** - *Initial work*
-
-See also the list of [contributors](https://github.com/Fraejix/KcFEDMules3/contributors) who participated in this project.
