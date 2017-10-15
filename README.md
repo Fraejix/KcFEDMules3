@@ -1,6 +1,6 @@
 # Project Title
 
-Would it not be awesome to already have a job lined up before you already graduated?  [Project Title] helps college students find short term trial jobs to work on a single project at a company in their industry.  As a team made up of five MIC (Missouri Innovation Campus) students, we understand the impact of an internships.  We credit most of our knowledge to our internships and understand the value of work experience.  Sometimes the hardest part of going from campus to corporate is finding a job., because corporations are looking for individuals with work experience.  Our application allows students to find short term trial jobs that last from a month to a semester and provide the needed work experience for students to get in the door.
+Would it be awesome to already have a job lined up before you already graduated?  [Project Title] helps college students find short term trial jobs to work on a single project at a company in their industry.  As a team made up of five MIC (Missouri Innovation Campus) students, we understand the impact of an internships.  We credit most of our knowledge to our internships and understand the value of work experience.  Sometimes the hardest part of going from campus to corporate is finding a job., because corporations are looking for individuals with work experience.  Our application allows students to find short term trial jobs that last from a month to a semester and provide the needed work experience for students to get in the door.
 
 ## Getting Started
 
