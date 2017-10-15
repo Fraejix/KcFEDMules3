@@ -74,10 +74,10 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## Authors
 
 * **[Justin Kelleher](https://github.com/JustinKelleher)** - *Initial work*
-* **Josh Savage** - *Initial work*
-* **Spencer Werremeyer** - *Initial work*
-* **Logan Hall** - *Initial work*
-* **Cody DeMent** - *Initial work*
+* **[Josh Savage](https://github.com/Fraejix)** - *Initial work*
+* **[Spencer Werremeyer](https://github.com/SpencerWerremeyer)** - *Initial work*
+* **[Logan Hall](https://github.com/)** - *Initial work*
+* **[Cody DeMent](https://github.com/)** - *Initial work*
 
 See also the list of [contributors](https://github.com/Fraejix/KcFEDMules3/contributors) who participated in this project.
 
