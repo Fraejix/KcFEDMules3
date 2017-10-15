@@ -58,9 +58,9 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Laravel](https://laravel.com/) - The PHP framework used
+* [jsPDF](https://parall.ax/products/jspdf) - Used to generate resume PDF
+* [Google Maps API](https://developers.google.com/maps/) - Used to generate map
 
 ## Contributing
 
