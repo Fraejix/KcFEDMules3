@@ -1,4 +1,4 @@
-# Campus to Corporate
+# TrialX
 
 Corporate environments are the litmus tests for students' skills. In a competitive job market, this makes the "first job" difficult for students to earn, and for companies to place. It is *risky* for businesses to hire interns or entry-level employees with college qualifications -- and no relevant work experience. Too many students are unable to get work experience, *because* of a lack of work experience.
 
