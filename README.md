@@ -3,6 +3,9 @@
 Would it be awesome to already have a job lined up before you already graduated?  Campus to Corporate helps college students find short term trial jobs to work on a single project at a company in their industry.  As a team made up of five MIC (Missouri Innovation Campus) students, we understand the impact of an internships.  We credit most of our knowledge to our internships and understand the value of work experience.  Sometimes the hardest part of going from campus to corporate is finding a job., because corporations are looking for individuals with work experience.  Our application allows students to find short term trial jobs that last from a month to a semester and provide the needed work experience for students to get in the door.
 
 What	problem	does	your	app	solve?
+
+The transition from campus to corportate is not easy.  The job market is highly competitive.  Employeers often want job experince and not willing to take a risk on a student without any job experince.  Campus to Corportate help college students through the process of getting their dream job.
+
 How	does	your	app	solve	that	problem?
 
 ## Demo
