@@ -1,12 +1,8 @@
 # Campus to Corporate
 
-Would it be awesome to already have a job lined up before you already graduated?  Campus to Corporate helps college students find short term trial jobs to work on a single project at a company in their industry.  As a team made up of five MIC (Missouri Innovation Campus) students, we understand the impact of an internships.  We credit most of our knowledge to our internships and understand the value of work experience.  Sometimes the hardest part of going from campus to corporate is finding a job., because corporations are looking for individuals with work experience.  Our application allows students to find short term trial jobs that last from a month to a semester and provide the needed work experience for students to get in the door.
+Corporate environments are the litmus tests for students' skills. In a competitive job market, this makes the "first job" difficult for students to earn, and for companies to place. It is *risky* for businesses to hire interns or entry-level employees with college qualifications -- and no relevant work experience. Too many students are unable to get work experience, *because* of a lack of work experience.
 
-What	problem	does	your	app	solve?
-
-The transition from campus to corportate is not easy.  The job market is highly competitive.  Employeers often want job experince and not willing to take a risk on a student without any job experince.  Campus to Corportate help college students through the process of getting their dream job.
-
-How	does	your	app	solve	that	problem?
+To solve this problem, we have devised a platform to connect students with employers for low-risk "trial" jobs. Organizations seeking interns or entry-level employees can use our site to publish short-term trials -- four- to sixteen-week projects -- and accept applications from students looking for work. Trials are kept short to reduce risky commitment while still offering valuable experience to students, and project deliverables to companies. To streamline the job-matching process, we offer student users a resume builder which templates data into a PDF; you may upload your own resume if you already have one. We take this data and match it against business-defined requirements -- "hard" skills and "soft" skills -- to list the most compatible trials first.
 
 ## Demo
 
