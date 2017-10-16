@@ -6,7 +6,7 @@ To solve this problem, we have devised a platform to connect students with emplo
 
 ## Demo
 
-* [YouTube](https://youtube.com/) - Short video demonstration
+* [YouTube](https://youtu.be/q2dZkH6eo0M) - Short video demonstration
 
 ## Built With
 
